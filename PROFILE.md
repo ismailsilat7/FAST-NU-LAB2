@@ -8,7 +8,5 @@
 studying in FAST NU,
 > Class of 2028.
 
-My favourite color is `rgb(9, 105, 218)`.
-
 You can check my profile at [GitHub](https://github.com/ismailsilat7).
 
